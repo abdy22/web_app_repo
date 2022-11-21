@@ -13,7 +13,7 @@
 
 ### change the start script to react-script start
 
-   "start": "react-script start" 
+   `"start": "react-script start"`
 
 
 ### `npm start` to start the app locally
