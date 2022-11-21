@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting started Movie search webapp codebase 
 
 This set up assumes you have the latest npm installed. 
 
@@ -9,13 +9,10 @@ In the project directory, you can run:
 
 This is to install all dependencies in package.json file
 
-In the package.json file; 
+## In the package.json file; 
 
-change the start script to 
+### change the start script to react-script start
 
-### react-script start
-
-then
 
 ### `npm start` to start the app locally
 
