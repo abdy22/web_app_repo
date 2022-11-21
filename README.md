@@ -28,4 +28,10 @@
 
 ### 'https://moviesearch.herokuapp.com/'
 
+  The website is uses Json-server as backend 
+
+### For full resource please visit 
+
+   `https://moviesearchapidata.herokuapp.com/` 
+
 
