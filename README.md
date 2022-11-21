@@ -1,13 +1,13 @@
 # Getting started Movie search webapp codebase 
 
-This set up assumes you have the latest npm installed. 
+    This set up assumes you have the latest npm installed. 
 
-In the project directory, you can run:
+    In the project directory, you can run:
 
 
 ### `npm install`
 
-This is to install all dependencies in package.json file
+    This is to install all dependencies in package.json file
 
 ### In the package.json file; 
 
