@@ -2,7 +2,6 @@ import * as React from "react";
 import TextField from "@mui/material/TextField";
 import Autocomplete from "@mui/material/Autocomplete";
 import { useState } from "react";
-import Button from "react-bootstrap/Button";
 import { useNavigate } from "react-router-dom";
 
 export default function Search(props) {
